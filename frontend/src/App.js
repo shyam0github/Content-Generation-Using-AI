@@ -56,6 +56,7 @@ function App() {
               path="user"
             >
               <Route path="profile" element={<UserProfile />} />
+              <Route path="contentgen" element={<ContentGenerator />} />
             </Route>
             <Route path="*" element={<NotFound />} />
           </Routes>
