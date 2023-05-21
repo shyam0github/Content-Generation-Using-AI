@@ -14,7 +14,7 @@ const ContentGenerator = () => {
       }, {
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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',
+          'Authorization': 'Bearer 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',
         },
       });
 
