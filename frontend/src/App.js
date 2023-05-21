@@ -14,6 +14,7 @@ import AdminAuth from "./auth/AdminAuth";
 import UserProvider from "./context/UserProvider";
 import AdminProvider from "./context/AdminProvider";
 import { useState } from "react";
+import ContentGenerator from "./components/user/ContentGenerator";
 
 function App() {
   const [currentUser, setCurrentUser] = useState(
