@@ -9,3 +9,11 @@
   border: 1px solid black;
   height: 80vh;
 }
+
+.header-img{
+  background-image: linear-gradient(to top ,#000, #0000003a), url('https://codesrevolvewordpress.s3.us-west-2.amazonaws.com/revolveai/2022/04/15110816/natural-language-processing-examples.png');
+  background-size: cover;
+  height: 500px;
+  background-position: center;
+  padding: 50px;
+}
